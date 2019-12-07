@@ -36,7 +36,7 @@ MsgBox "Crashing Of " + Contact + " Is Done", 1024 + vbSystemModal, "Crash Is Do
 
 ' Canceled Script
 Else
-MsgBox "Process Has Been Canceled", vbSystemModal, "Crash is Canceled"
+MsgBox 'Process Has Been Canceled', vbSystemModal, "Crash is Canceled"
 End If
 Else
 End If
