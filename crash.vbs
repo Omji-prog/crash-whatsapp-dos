@@ -1,4 +1,4 @@
-' Created By Mani Sai Prasad On 29-03-2018
+# Created By Mani Sai Prasad On 29-03-2018
 Contact = InputBox("Which Conctact Do You Want To Crash?", "WhatsApp Crash")
 Message = InputBox("What Is The Message?","WhatsApp Crash")
 T = InputBox("How Many Times Needs It To Be Send?","WhatsApp Crash")
